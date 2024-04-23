@@ -9,13 +9,12 @@ const Encabezado = () => {
     return <header>
             <div>
                 <div>
-                    <h2>Examen Final de Frontend IV</h2>
+                    <h2>Rick and Morty Character Search</h2>
                 </div>
                 <nav>
                     <ul>
                         <li><Link to="/">Inicio</Link></li>
                         <li><Link to="/favoritos">Favoritos</Link></li>
-                        <li><Link to="/detalle">Detalle</Link></li>
                     </ul>
                 </nav>
             </div>
